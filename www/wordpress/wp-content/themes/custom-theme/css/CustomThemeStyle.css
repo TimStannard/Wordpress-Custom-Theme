@@ -1,0 +1,13 @@
+html,
+body{
+	margin: 0;
+	color: #333;
+	background: lightgrey;
+	font-family: Arial;
+}
+
+body{
+	padding: 20px;
+	background-color: grey;
+	color: white;
+}
